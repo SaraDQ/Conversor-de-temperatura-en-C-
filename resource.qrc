@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/alta-temperatura.png</file>
+    </qresource>
+</RCC>
